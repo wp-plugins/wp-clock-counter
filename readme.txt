@@ -64,6 +64,8 @@ You can select language as you like below:
 
 <pre>[custom_clocks id="11" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
 
+<strong>Note: Here we used id="1, 2, 3" just demo you can any word name or anything.</strong>
+
 
 == Installation ==
 
