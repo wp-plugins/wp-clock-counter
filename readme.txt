@@ -1,5 +1,4 @@
 === Wp Clock Counter  ===
-Donate link: http://example.com/
 Tags: Clock Counter, baby, birthday, birthday countdown, count down, countdown, countdown clock, countdown generator, countdown ticker, countdown till days, exams, FIFA world cup countdown, flash countdown, halloween, html5, olympic games, olympics countdown, pregnancy, summer, ticker, timer, wedding, world cup
 Requires at least: 3.0.1
 Tested up to: 4.2.1
@@ -13,44 +12,39 @@ WP countdown Clock Plugin Super Lightweight, Fully Responsive and easy to instal
 
 In this Wp Clock Counter plugin user get dynamic clocks and counter with multiple language support, easy installation, multiple sortcodes has in plugin and easy setup functions.
 
-<b>Daily Counter</b>
+<strong>Plugin Demo url:</strong> <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">http://touchpointdev.com/wp-clock-counter/</a>
+
+<strong>Daily Counter</strong>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
 
-<b>Hourly Counter</b>
-<b>Example-1</b>
-
+<strong>Hourly Counter</strong>
+<strong>Example-1</strong>
 <pre>[custom_clocks id="2" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
 
-<b>Example-2</b>
-
+<strong>Example-2</strong>
 <pre>[custom_clocks id="3" set_time="3600" countdown="true" clockface="HourlyCounter"]</pre>
 
-<b>Minute Counter</b>
-<b>Example-1</b>
+<strong>Minute Counter</strong>
+<strong>Example-1</strong>
+<pre>[custom_clocks id="4" set_time="3000" clockface="MinuteCounter"]</pre>
 
-[custom_clocks id="4" set_time="3000" clockface="MinuteCounter"]
-
-<b>Example-2</b>
-
+<strong>Example-2</strong>
 <pre>[custom_clocks id="5" set_time="3600" countdown="true" clockface="MinuteCounter"]</pre>
 
-<b>12hr Clock</b>
+<strong>12hr Clock</strong>
 <pre>[custom_clocks id="6" clockface="TwelveHourClock"]</pre>
 
-<b>24hr Clock</b>
+<strong>24hr Clock</strong>
 <pre>[custom_clocks id="7"  clockface="TwentyFourHourClock"]</pre>
 
-<b>General Counter</b>
-<b>Example-1</b>
-
+<strong>General Counter</strong>
+<strong>Example-1</strong>
 <pre>[custom_clocks id="8" set_time="100"  clockface="Counter"]</pre>
 
-<b>Example-2</b>
-
+<strong>Example-2</strong>
 <pre>[custom_clocks id="9"  set_time="100" countdown="true" clockface="Counter"]</pre>
 
-<b>Language Support:</b>
-
+<strong>Language Support:</strong>
 You can select language as you like below:
 
     ar-ar
@@ -80,20 +74,25 @@ e.g.
 1. Upload `plugin-directory.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You can use plugin shortcode in your post or anywhere. 
-1. Place `<?php echo do_shorcode('YOUR_SHORTCODE'); ?>` in your templates
+1. Place `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Why you use this plugin? =
 
-An answer to that question.
+Super lightweight,  easy to use and multiple shortcodes.
 
-= What about foo bar? =
+= What are extra facilities of this plugin? =
 
-Answer to foo bar dilemma.
+you will get multiple language support and fully responsive.
+
+= Do you found any bugs? =
+
+Just Contact Us Click Here: <a href="http://www.touchpointdev.com" target="_blank">Touch Point</a>.
 
 == Screenshots ==
 
+1. Plugin Demo Screenshot.
 
 == Changelog ==
 
