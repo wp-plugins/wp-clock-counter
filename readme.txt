@@ -6,7 +6,7 @@ Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WP countdown Clock Plugin Super Lightweight, Fully Responsive and easy to install.
+Wp Clock Counter Plugin Super Lightweight, Fully Responsive and easy to install.
 
 == Description ==
 
@@ -17,7 +17,7 @@ In this Wp Clock Counter plugin user get dynamic clocks and counter with multipl
 <strong>Daily Counter</strong>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
 
-<strong>Hourly Counter</strong>
+<h3>Hourly Counter</h3>
 <strong>Example-1</strong>
 <pre>[custom_clocks id="2" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
 
