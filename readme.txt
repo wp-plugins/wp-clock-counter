@@ -12,9 +12,9 @@ Wp Clock Counter Plugin Super Lightweight, Fully Responsive and easy to install.
 
 In this Wp Clock Counter plugin user get dynamic clocks and counter with multiple language support, easy installation, multiple sortcodes has in plugin and easy setup functions.
 
-<strong>Plugin Demo url:</strong> <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">http://touchpointdev.com/wp-clock-counter/</a>
+<h3>Plugin Demo url:</h3> <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">http://touchpointdev.com/wp-clock-counter/</a>
 
-<strong>Daily Counter</strong>
+<h3>Daily Counter</h3>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
 
 <h3>Hourly Counter</h3>
@@ -24,27 +24,27 @@ In this Wp Clock Counter plugin user get dynamic clocks and counter with multipl
 <strong>Example-2</strong>
 <pre>[custom_clocks id="3" set_time="3600" countdown="true" clockface="HourlyCounter"]</pre>
 
-<strong>Minute Counter</strong>
+<h3>Minute Counter</h3>
 <strong>Example-1</strong>
 <pre>[custom_clocks id="4" set_time="3000" clockface="MinuteCounter"]</pre>
 
 <strong>Example-2</strong>
 <pre>[custom_clocks id="5" set_time="3600" countdown="true" clockface="MinuteCounter"]</pre>
 
-<strong>12hr Clock</strong>
+<h3>12hr Clock</h3>
 <pre>[custom_clocks id="6" clockface="TwelveHourClock"]</pre>
 
-<strong>24hr Clock</strong>
+<h3>24hr Clock</h3>
 <pre>[custom_clocks id="7"  clockface="TwentyFourHourClock"]</pre>
 
-<strong>General Counter</strong>
+<h3>General Counter</h3>
 <strong>Example-1</strong>
 <pre>[custom_clocks id="8" set_time="100"  clockface="Counter"]</pre>
 
 <strong>Example-2</strong>
 <pre>[custom_clocks id="9"  set_time="100" countdown="true" clockface="Counter"]</pre>
 
-<strong>Language Support:</strong>
+<h3>Language Support:</h3>
 You can select language as you like below:
 
     ar-ar
@@ -64,7 +64,7 @@ You can select language as you like below:
 
 <pre>[custom_clocks id="11" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
 
-<strong>Note: Here we used id="1, 2, 3" just demo you can any word name or anything.</strong>
+<h3>Note: Here we used id="1, 2, 3" just demo you can any word name or anything.</h3>
 
 
 == Installation ==
