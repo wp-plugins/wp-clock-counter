@@ -96,6 +96,8 @@ Just Contact Us Click Here: <a href="http://www.touchpointdev.com" target="_blan
 
 1. Plugin Demo Screenshot.
 
+2. Shortcode Button in post editor.
+
 == Changelog ==
 
 = 1.0 =
