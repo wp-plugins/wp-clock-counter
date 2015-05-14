@@ -14,8 +14,12 @@ In this Wp Clock Counter plugin user get dynamic clocks and counter with multipl
 Use shortcode anywhere in your theme just  copy your shortcode and replace into this "YOUR_SHORTCODE" area to your shortcode 
 `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>`
 
-<h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Live Demo:</a></h4>
-<h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">For More Details:</a></h4>
+<ul>
+	<li><h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Live Demo:</a></h4></li>
+	<li><h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">For More Details:</a></h4></li>
+</ul>
+
+
 
 <h3>Daily Counter</h3>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
