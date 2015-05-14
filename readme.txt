@@ -12,9 +12,10 @@ Wp Clock Counter Plugin Super Lightweight, Fully Responsive and easy to install.
 
 In this Wp Clock Counter plugin user get dynamic clocks and counter with multiple language support, easy installation, multiple sortcodes has in plugin and easy setup functions.
 Use shortcode anywhere in your theme just  copy your shortcode and replace into this "YOUR_SHORTCODE" area to your shortcode 
-<?php echo do_shortcode('YOUR_SHORTCODE'); ?>
+`<?php echo do_shortcode('YOUR_SHORTCODE'); ?>`
 
-<h3>Plugin Demo url:</h3> <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">http://touchpointdev.com/wp-clock-counter/</a>
+<h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Live Demo:</a></h4>
+<h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">For More Details:</a></h4>
 
 <h3>Daily Counter</h3>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
@@ -65,8 +66,6 @@ You can select language as you like below:
     sv-se
 
 <pre>[custom_clocks id="11" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
-
-<h4>For More Details visit our website: <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Click Here</a></h4>
 
 <h3>Note: Here we used id="1, 2, 3" just demo you can use any word name or anything as your like.</h3>
 
