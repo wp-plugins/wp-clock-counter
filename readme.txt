@@ -66,7 +66,7 @@ You can select language as you like below:
 
 <pre>[custom_clocks id="11" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
 
-<strong>For More Details visit our website: style="color:green;" <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Click Here</a></strong>
+<h4>For More Details visit our website: <a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Click Here</a></h4>
 
 <h3>Note: Here we used id="1, 2, 3" just demo you can use any word name or anything as your like.</h3>
 
