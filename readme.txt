@@ -20,7 +20,6 @@ Use shortcode anywhere in your theme just  copy your shortcode and replace into 
 </ul>
 
 
-
 <h3>Daily Counter</h3>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
 
