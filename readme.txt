@@ -15,8 +15,8 @@ Use shortcode anywhere in your theme just  copy your shortcode and replace into 
 `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>`
 
 <ul>
-	<li><h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">Live Demo:</a></h4></li>
-	<li><h4><a href="http://touchpointdev.com/wp-clock-counter/" target="_blank">For More Details:</a></h4></li>
+	<li><h4><a href="http://wppluginarea.com/wp-clock-counter-plugin/" target="_blank">Live Demo:</a></h4></li>
+	<li><h4><a href="http://wppluginarea.com/wp-clock-counter-plugin/" target="_blank">For More Details:</a></h4></li>
 </ul>
 
 
