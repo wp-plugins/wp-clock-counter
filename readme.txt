@@ -38,10 +38,10 @@ Use shortcode anywhere in your theme just  copy your shortcode and replace into 
 <pre>[custom_clocks id="5" countdown="true" clockface="MinuteCounter"]</pre>
 
 <h3>12hr Clock</h3>
-<pre>[custom_clocks id="6" clockface="TwelveHourClock"]</pre>
+<pre>[custom_clocks id="6" set_time="3600" clockface="TwelveHourClock"]</pre>
 
 <h3>24hr Clock</h3>
-<pre>[custom_clocks id="7"  clockface="TwentyFourHourClock"]</pre>
+<pre>[custom_clocks id="7" set_time="3600" clockface="TwentyFourHourClock"]</pre>
 
 <h3>General Counter</h3>
 <strong>Example-1</strong>
