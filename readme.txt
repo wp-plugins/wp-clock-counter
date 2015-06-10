@@ -25,17 +25,17 @@ Use shortcode anywhere in your theme just  copy your shortcode and replace into 
 
 <h3>Hourly Counter</h3>
 <strong>Example-1</strong>
-<pre>[custom_clocks id="2" set_time="3600" language="sv" clockface="HourlyCounter"]</pre>
+<pre>[custom_clocks id="2" clockface="HourlyCounter"]</pre>
 
 <strong>Example-2</strong>
-<pre>[custom_clocks id="3" set_time="3600" countdown="true" clockface="HourlyCounter"]</pre>
+<pre>[custom_clocks id="3" countdown="true" clockface="HourlyCounter"]</pre>
 
 <h3>Minute Counter</h3>
 <strong>Example-1</strong>
-<pre>[custom_clocks id="4" set_time="3000" clockface="MinuteCounter"]</pre>
+<pre>[custom_clocks id="4" clockface="MinuteCounter"]</pre>
 
 <strong>Example-2</strong>
-<pre>[custom_clocks id="5" set_time="3600" countdown="true" clockface="MinuteCounter"]</pre>
+<pre>[custom_clocks id="5" countdown="true" clockface="MinuteCounter"]</pre>
 
 <h3>12hr Clock</h3>
 <pre>[custom_clocks id="6" clockface="TwelveHourClock"]</pre>
