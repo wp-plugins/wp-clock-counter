@@ -10,8 +10,7 @@ Wp Clock Counter Plugin Super Lightweight, Fully Responsive and easy to install.
 
 == Description ==
 
-In this Wp Clock Counter plugin user get dynamic clocks and counter with multiple language support, easy installation, multiple sortcodes has in plugin and easy setup functions.
-Use shortcode anywhere in your theme just  copy your shortcode and replace into this "YOUR_SHORTCODE" area to your shortcode 
+In this Wp Clock Counter plugin user will get dynamic clocks and counter with multiple language support, easy installation, multiple shortcode in one plugin also easy setup functions. Use shortcode anywhere in your theme just copy your shortcode and replace into this "YOUR_SHORTCODE" area to your shortcode.  
 `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>`
 
 <ul>
@@ -19,6 +18,7 @@ Use shortcode anywhere in your theme just  copy your shortcode and replace into 
 	<li><h4><a href="http://wppluginarea.com/wp-clock-counter-plugin/" target="_blank">For More Details:</a></h4></li>
 </ul>
 
+https://www.youtube.com/watch?v=l6bfXJqGn4s&feature=youtu.be
 
 <h3>Daily Counter</h3>
 <pre>[custom_clocks id="1" set_time="3600*24*1"]</pre>
