@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Wp Clock Counter 
-Plugin URI:  http://touchpointdev.com/wp-clock-counter
+Plugin URI:  http://wppluginarea.com/wp-clock-counter-plugin/
 Description: In this Wp Clock Counter plugin user get dynamic clocks and counter with multiple language support, easy installation, multiple sortcodes has in plugin and easy setup functions.
 Author: Wp Plugin Area
 Author URI: http://wppluginarea.com
