@@ -3,8 +3,8 @@
 Plugin Name: Wp Clock Counter 
 Plugin URI:  http://touchpointdev.com/wp-clock-counter
 Description: In this Wp Clock Counter plugin user get dynamic clocks and counter with multiple language support, easy installation, multiple sortcodes has in plugin and easy setup functions.
-Author: Rana Ahmed
-Author URI: http://touchpointdev.com
+Author: Wp Plugin Area
+Author URI: http://wppluginarea.com
 Version: 2.1
 */
 
